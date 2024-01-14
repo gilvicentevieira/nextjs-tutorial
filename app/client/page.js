@@ -10,4 +10,4 @@ const ClientPage = () => {
   )
 }
 
-export default AboutInfoPage
+export default ClientPage
