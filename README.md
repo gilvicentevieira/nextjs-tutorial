@@ -11,3 +11,15 @@ This application allow me to explore the following in Next.js:
 - Image Component
 - Server actions
 - Middleware
+
+Built with:
+ - Next.js
+ - Javascript
+ - Prisma as database ORM
+ - TailwindCSS for styling
+ - DaisyUI as UI library
+ - Zod for schema validation
+
+&nbsp;
+&nbsp;
+[![SCt4b.gif](https://s13.gifyu.com/images/SCt4b.gif)](https://gifyu.com/image/SCt4b)
